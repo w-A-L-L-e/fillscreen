@@ -28,3 +28,13 @@ For instance dark blue:
 ```
 
 Pressing q or escape exits the program. Pressing f toggles fullscreen mode.
+
+Why?
+If you want to see dead pixels or clean your laptop screen I mostly use it like so:
+White screen alias in my .profile:
+
+```
+alias ws="~/bin/fillscreen 255 255 255"
+```
+
+Now typing ws in my shell makes my screen all white, ready for some cleanin ;)
